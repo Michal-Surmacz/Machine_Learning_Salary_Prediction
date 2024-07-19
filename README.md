@@ -39,6 +39,9 @@ The dataset contains the following columns:
 
 ## **Result**
 
+![image](https://github.com/user-attachments/assets/670ff5ad-f8e1-4aed-881b-8f29c9fdfe09)
+
+
 ### **Description**
 This machine learning project aims to predict salary estimates using various regression models. The performance of each model is evaluated based on key metrics such as Mean Absolute Error (MAE), R² (Coefficient of Determination), and Mean Absolute Percent Error (MAPE). The impact of feature engineering and hyperparameter tuning on model performance is also assessed.
 
