@@ -18,7 +18,7 @@ In this project, the regression problem involves predicting the **average salary
 
 The dataset is sourced from [**Kaggle - Salary Prediction**](https://www.kaggle.com/datasets/thedevastator/jobs-dataset-from-glassdoor).
 
-### **Data Description**]
+### **Data Description**
 
 The dataset contains the following columns:
 - **`Job Id`**: The id of the job. 
