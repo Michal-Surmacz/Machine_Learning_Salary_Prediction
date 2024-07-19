@@ -10,7 +10,7 @@ The objective of this project is to develop a **predictive model** capable of es
 
 **Regression** is a subset of machine learning algorithms used to predict **continuous values**. Unlike classification, which assigns observations to predefined categories, regression focuses on forecasting numerical values on a continuous scale. Examples of regression applications include predicting real estate prices, sales forecasting, and sports results prediction.
 
-In this project, the regression problem involves predicting the **minimum salary** and the ** maximum salary**, a continuous numerical value. Salary prediction is influenced by multiple factors, including **industry**, **company size**, **location**, **professional experience**, and **job position**, making it a complex but insightful problem to solve.
+In this project, the regression problem involves predicting the **minimum salary** and the **maximum salary**, a continuous numerical value. Salary prediction is influenced by multiple factors, including **industry**, **company size**, **location**, **professional experience**, and **job position**, making it a complex but insightful problem to solve.
 
 ## **Dataset**
 
