@@ -2,6 +2,8 @@
 
 ## **Introduction**
 
+All project available on: https://www.kaggle.com/code/michalsurmacz/machine-learning-salary-prediction
+
 ### **Goal**
 
 The objective of this project is to develop a **predictive model** capable of estimating remuneration for various job positions. By leveraging advanced data analytics and machine learning techniques, the project aims to identify and understand the key factors influencing salary levels. This can provide valuable insights for both employers and employees in the context of market-based pay analytics and salary negotiations.
